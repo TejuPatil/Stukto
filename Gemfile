@@ -56,3 +56,8 @@ gem 'twitter-bootstrap-rails', :git => 'https://github.com/seyhunak/twitter-boot
 gem "font-awesome-rails"
 
 gem 'simple_form'
+
+gem 'devise'
+
+#gem 'bcrypt', platforms: :ruby
+gem 'bcrypt', '~> 3.1.7'
